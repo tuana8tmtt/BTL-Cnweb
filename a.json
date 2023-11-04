@@ -1,0 +1,89 @@
+20205029|Phạm Minh Thống|{
+    "RespCode": 0,
+    "RespText": "OK",
+    "ClassDetailInfo": {
+        "StudentId": "20205029",
+        "StudentName": "Phạm Minh Thống",
+        "Birthday": "07/07/2002",
+        "Email": "thong.pm205029@sis.hust.edu.vn",
+        "LevelProgram": "KSCLC-TN-TT",
+        "Sex": "Nam",
+        "Faculty": "Viện Công nghệ Thông tin và Truyền thông",
+        "ClassName": "Việt Nhật 02-K65",
+        "YearEntry": "2020",
+        "Semmester": "20201",
+        "TC_All": "15.0",
+        "TC_Due": "Không có dữ liệu",
+        "LevelStudent": "Không có dữ liệu",
+        "LevelWarning": "Mức 0",
+        "Nation": "KINH",
+        "Religion": "KHÔNG",
+        "YearTNC3": "Năm  Không có dữ liệu",
+        "NameC3": "THPT YÊN MÔ B, HUYỆN YÊN MÔ, TỈNH NINH BÌNH",
+        "AddressBase": "XÃ YÊN LÂM, HUYỆN YÊN MÔ, TỈNH NINH BÌNH",
+        "Address": "XÃ YÊN LÂM, HUYỆN YÊN MÔ, TỈNH NINH BÌNH",
+        "CMND": "037202004432",
+        "CMNDAddress": "TỈNH NINH BÌNH",
+        "FatherName": "PHẠM VĂN DUẪN",
+        "FatherBirthday": "26-05-1996",
+        "FatherJob": "NÔNG DÂN",
+        "FatherPhone": "0916265709",
+        "FatherEmail": "SAIDOSHINO@GMAIL/COM",
+        "MotherName": "NGUYỄN THỊ LỊCH",
+        "MotherBirthday": "16-12-1973",
+        "MotherJob": "",
+        "MotherPhone": "",
+        "MotherEmail": "",
+        "Course": "65",
+        "CPA": "3.63",
+        "BHYT": "3720906444",
+        "AddressCurrent": "Xã Yên Lâm H. Yên Mô Việt Nam",
+        "TypeHome": "Nhà riêng",
+        "Contact": "0918598843",
+        "GVCN": "nga.nguyenthithanh@hust.edu.vn",
+        "Point": 36,
+        "TPoint": 0,
+        "AssessUser": "",
+        "StudyInfo": "Học",
+        "CriteriaPointSemsterLst": [
+            {
+                "Semester": "2020-1",
+                "Point": "90"
+            }
+        ],
+        "StudentTranscriptLst": [
+            {
+                "GPA": "3.63",
+                "CPA": "3.63",
+                "NumberTL": "15.0",
+                "NumberDK": "15.0",
+                "WaringLevel": "Mức 0",
+                "Session": "20201"
+            }
+        ],
+        "StudentContactInfo": {
+            "RowID": 0,
+            "StudentID": "20205029",
+            "StudentName": "Phạm Minh Thống",
+            "Contact": "0918598843",
+            "City": "Tỉnh Ninh Bình",
+            "District": "Huyện Yên Mô",
+            "Address": "Xã Yên Lâm H. Yên Mô Việt Nam",
+            "TypeHome": "Nhà riêng",
+            "Wards": "Xã Yên Lâm",
+            "Latitude": 0.0,
+            "Longitude": 0.0,
+            "Status": 2
+        },
+        "DecisionLst": [
+            {
+                "StudentID": "20205029",
+                "DecisionNumber": "nhập học 2020",
+                "DecisionDate": "10.10.2020",
+                "TypeName": "Vào lớp,CTĐT",
+                "StatusName": "Đã thực hiện lớp,CTĐT",
+                "TermID": "20201"
+            }
+        ]
+    }
+}
